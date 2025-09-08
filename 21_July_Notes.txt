@@ -1,0 +1,75 @@
+8th Sep
+
+Abstraction --> abstract class
+			data hiding
+			at least methods are abstract
+			abstract-nono abstract methods
+			can not create object
+
+		interafaces 
+			you can extends only class
+			you can extensd/implmenets more then one interafce
+			multiple not support
+			thru interaface you can have multiple inheritance
+			all methods are abstract
+			abstarct methods donen't have body
+			all methods abstract by default
+			data/filed final/constant/value changed		
+	
+			
+			
+factorial --- 
+5*4*3*2*1
+
+
+	loops
+		
+sop("Hello");
+sop("Hello");
+sop("Hello");
+sop("Hello");
+sop("Hello");
+
+sop("Hello");
+sop("Hello");
+sop("Hello");
+sop("Hello");
+sop("Hello");
+java - 
+		loops
+			1. for  - entry control 
+			2. while - entry control
+			3. do ... while -exit control
+
+
+		for(intilization;condition;increment/decrement)
+		{
+			code/logic
+		}
+		for(int i=1;i<=5000;i++)
+		{
+			sop("Hello"+i);
+		}
+
+5*4 = 20  
+20*3 =60
+60*2=120
+120*1 = 120 
+
+1*1 = 1
+2*1 = 2
+3*2 = 6
+4*6 = 24
+5*24 = 120 
+
+fact = i * fact;
+
+user to enter number
+
+Scanner 
+Wrapper class - INTEGER int
+		DOUBLE double
+		LONG long
+		
+
+		
