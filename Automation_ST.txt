@@ -139,8 +139,80 @@ Lab task - Factorial number with while loop
 	}while(i<=5);
 	
 	entry control and exit control 
+
+12th Sep
+
+loops for
+	while
+	do - while
+		logical builing program
+		count no of digits number = 12456 = 5
+		prime number --  no divisable 1 and itself only  	13 
+29
+22 not prime
+		pattens 
+			*
+			*	*
+			*	*	*
+			*	*	*	*
+		1
+		1 2
+		1 2 3
+		1 2 3 4
+
+conditional stmt   --- conditions ?when alternatives 
+			ghar short cut/traffic/signal - select rasta
+
+3 stmt
+	1. if(condition)
+		{
+			block/stmt
+		}
+	2. if(condition)
+		{
+			block
+		}else
+		{
+		}
+
+	3. if(condtion)
+		{
+		}
+		else if (condition)
+		{
+		}
 	
+age 
+		infant 0-2
+		minor  - 3-17
+		age-0-2 - infant
+    adult    18-50	
+senior		51-70
+super senior   71 above 
 
 
+nested if --> if within if 
+	if(condition)
+	{
+		if(condition)
+		{
+		}
+	}
 
-		
+
+donate blood  - age 
+		weight
+			age adult
+				weight >50
+
+Lab task - assk age and weight 5 times and print accoudingly
+
+operators 
+
+aritmatic - +,-,*,/,%(reminder)
+relational >,>=,<=,==,!= 
+logical operators = && , || , !
+ternary operator ?:
+ 
+
+	
